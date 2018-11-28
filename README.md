@@ -1,5 +1,5 @@
 # homebridge-433mhz-switches
-(Very opinionated) approach to get 433mhz switches running with homebridge. I had no luck with [homebridge-rcswitch](https://www.npmjs.com/package/homebridge-rcswitch) or [homebridge-rcswitch-gpionem](https://www.npmjs.com/package/homebridge-rcswitch-gpiomem) so I decided to roll my own based on scripts.
+(Very opinionated) approach to get 433mhz switches running with homebridge on raspberry pi. I had no luck with [homebridge-rcswitch](https://www.npmjs.com/package/homebridge-rcswitch) or [homebridge-rcswitch-gpionem](https://www.npmjs.com/package/homebridge-rcswitch-gpiomem) so I decided to roll my own based on scripts.
 
 ## Install script plugin
 
